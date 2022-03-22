@@ -1,5 +1,4 @@
 # Capstone-3D-Platformer
-This repository only contains the compiled game, as there are problems with git.
 
 Presentation video: https://drive.google.com/file/d/1Ftc-SNkHHrWYCCxUg8Zxx0gHtCldZhC0/view?usp=sharing
 
